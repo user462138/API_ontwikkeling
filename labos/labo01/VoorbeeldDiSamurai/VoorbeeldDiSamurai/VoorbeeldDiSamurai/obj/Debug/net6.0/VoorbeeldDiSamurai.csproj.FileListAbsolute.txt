@@ -1,0 +1,34 @@
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.exe
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.deps.json
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.runtimeconfig.json
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.dll
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.pdb
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\Ninject.dll
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.csproj.AssemblyReference.cache
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.AssemblyInfoInputs.cache
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.AssemblyInfo.cs
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.csproj.CopyComplete
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.dll
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\refint\VoorbeeldDiSamurai.dll
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.pdb
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.genruntimeconfig.cache
+D:\Dropbox\Dimitri\AP\2022-2023\WebServices\Les 2\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\ref\VoorbeeldDiSamurai.dll
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.exe
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.deps.json
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.runtimeconfig.json
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.dll
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\VoorbeeldDiSamurai.pdb
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\bin\Debug\net6.0\Ninject.dll
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.csproj.AssemblyReference.cache
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.AssemblyInfoInputs.cache
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.AssemblyInfo.cs
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.csproj.CoreCompileInputs.cache
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\Voorbeel.82F5C120.Up2Date
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.dll
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\refint\VoorbeeldDiSamurai.dll
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.pdb
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\VoorbeeldDiSamurai.genruntimeconfig.cache
+C:\Users\yazan\Documents\academiejaar 2024-25\API ontwikkeling\labos\labo01\VoorbeeldDiSamurai\VoorbeeldDiSamurai\VoorbeeldDiSamurai\obj\Debug\net6.0\ref\VoorbeeldDiSamurai.dll

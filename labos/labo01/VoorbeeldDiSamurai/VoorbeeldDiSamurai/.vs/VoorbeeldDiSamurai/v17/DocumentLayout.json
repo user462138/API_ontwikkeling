@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo01\\voorbeelddisamurai\\voorbeelddisamurai\\voorbeelddisamurai\\itrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|solutionrelative:voorbeelddisamurai\\itrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo01\\voorbeelddisamurai\\voorbeelddisamurai\\voorbeelddisamurai\\automatictrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|solutionrelative:voorbeelddisamurai\\automatictrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo01\\voorbeelddisamurai\\voorbeelddisamurai\\voorbeelddisamurai\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|solutionrelative:voorbeelddisamurai\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo01\\voorbeelddisamurai\\voorbeelddisamurai\\voorbeelddisamurai\\manualtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190B1AE7-B1C8-4E34-936B-F781D748A6BF}|VoorbeeldDiSamurai\\VoorbeeldDiSamurai.csproj|solutionrelative:voorbeelddisamurai\\manualtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\ITrigger.cs",
+              "RelativeDocumentMoniker": "VoorbeeldDiSamurai\\ITrigger.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\ITrigger.cs",
+              "RelativeToolTip": "VoorbeeldDiSamurai\\ITrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:53:04.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomaticTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\AutomaticTrigger.cs",
+              "RelativeDocumentMoniker": "VoorbeeldDiSamurai\\AutomaticTrigger.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\AutomaticTrigger.cs",
+              "RelativeToolTip": "VoorbeeldDiSamurai\\AutomaticTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:52:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\Gun.cs",
+              "RelativeDocumentMoniker": "VoorbeeldDiSamurai\\Gun.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\Gun.cs",
+              "RelativeToolTip": "VoorbeeldDiSamurai\\Gun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:51:33.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManualTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\ManualTrigger.cs",
+              "RelativeDocumentMoniker": "VoorbeeldDiSamurai\\ManualTrigger.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo01\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\VoorbeeldDiSamurai\\ManualTrigger.cs",
+              "RelativeToolTip": "VoorbeeldDiSamurai\\ManualTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:49:08.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
