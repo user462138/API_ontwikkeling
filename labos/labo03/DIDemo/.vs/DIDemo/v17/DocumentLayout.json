@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44127496-7F9D-48AA-91B9-894F3722414F}|DIDemo\\DIDemo.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo03\\didemo\\didemo\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44127496-7F9D-48AA-91B9-894F3722414F}|DIDemo\\DIDemo.csproj|solutionrelative:didemo\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44127496-7F9D-48AA-91B9-894F3722414F}|DIDemo\\DIDemo.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo03\\didemo\\didemo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44127496-7F9D-48AA-91B9-894F3722414F}|DIDemo\\DIDemo.csproj|solutionrelative:didemo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44127496-7F9D-48AA-91B9-894F3722414F}|DIDemo\\DIDemo.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo03\\didemo\\didemo\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44127496-7F9D-48AA-91B9-894F3722414F}|DIDemo\\DIDemo.csproj|solutionrelative:didemo\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\DIDemo\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "DIDemo\\Services\\IPostService.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\DIDemo\\Services\\IPostService.cs",
+              "RelativeToolTip": "DIDemo\\Services\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:54:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\DIDemo\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "DIDemo\\Services\\PostsService.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\DIDemo\\Services\\PostsService.cs",
+              "RelativeToolTip": "DIDemo\\Services\\PostsService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:54:26.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\DIDemo\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "DIDemo\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\DIDemo\\DIDemo\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "DIDemo\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:52:39.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

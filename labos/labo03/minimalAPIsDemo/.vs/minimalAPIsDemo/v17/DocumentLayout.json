@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\minimalAPIsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3997DA-1EE7-4C3C-90A8-737FC9DD813A}|minimalAPIsDemo\\minimalAPIsDemo.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo03\\minimalapisdemo\\minimalapisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3997DA-1EE7-4C3C-90A8-737FC9DD813A}|minimalAPIsDemo\\minimalAPIsDemo.csproj|solutionrelative:minimalapisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\minimalAPIsDemo\\minimalAPIsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "minimalAPIsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo03\\minimalAPIsDemo\\minimalAPIsDemo\\Program.cs",
+              "RelativeToolTip": "minimalAPIsDemo\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:08:21.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

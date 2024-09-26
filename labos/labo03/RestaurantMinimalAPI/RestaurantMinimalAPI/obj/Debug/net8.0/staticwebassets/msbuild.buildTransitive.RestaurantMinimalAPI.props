@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RestaurantMinimalAPI.props" />
+</Project>
