@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "OefeningConfiguration.Controllers.SettingsController",
+    "Method": "GetSettingsDirectly",
+    "RelativePath": "Settings/direct-from-appsettings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OefeningConfiguration.Controllers.SettingsController",
+    "Method": "GetSettingsUsingBinder",
+    "RelativePath": "Settings/using-binder",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
