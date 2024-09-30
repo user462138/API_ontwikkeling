@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo05\\OefeningNamedOptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080A3FF3-FBB6-4850-B972-054F4FE45D71}|OefeningNamedOptions\\OefeningNamedOptions.csproj|c:\\users\\yazan\\documents\\academiejaar 2024-25\\api ontwikkeling\\labos\\labo05\\oefeningnamedoptions\\oefeningnamedoptions\\controllers\\emaillsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080A3FF3-FBB6-4850-B972-054F4FE45D71}|OefeningNamedOptions\\OefeningNamedOptions.csproj|solutionrelative:oefeningnamedoptions\\controllers\\emaillsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmaillSettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo05\\OefeningNamedOptions\\OefeningNamedOptions\\Controllers\\EmaillSettingsController.cs",
+              "RelativeDocumentMoniker": "OefeningNamedOptions\\Controllers\\EmaillSettingsController.cs",
+              "ToolTip": "C:\\Users\\yazan\\Documents\\academiejaar 2024-25\\API ontwikkeling\\labos\\labo05\\OefeningNamedOptions\\OefeningNamedOptions\\Controllers\\EmaillSettingsController.cs",
+              "RelativeToolTip": "OefeningNamedOptions\\Controllers\\EmaillSettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:55:18.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

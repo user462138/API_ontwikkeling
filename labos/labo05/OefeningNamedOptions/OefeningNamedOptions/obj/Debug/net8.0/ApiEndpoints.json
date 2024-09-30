@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "OefeningNamedOptions.Controllers.EmailConfigurationsController",
+    "Method": "GetEmailConfigurations",
+    "RelativePath": "api/EmailConfigurations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
