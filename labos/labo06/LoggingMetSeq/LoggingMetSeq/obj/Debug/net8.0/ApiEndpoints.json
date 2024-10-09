@@ -1,0 +1,63 @@
+[
+  {
+    "ContainingType": "LoggingMetSeq.Controllers.LoggingController",
+    "Method": "LogError",
+    "RelativePath": "api/Logging/log-error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingMetSeq.Controllers.LoggingController",
+    "Method": "LogException",
+    "RelativePath": "api/Logging/log-exception",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingMetSeq.Controllers.LoggingController",
+    "Method": "LogInformation",
+    "RelativePath": "api/Logging/log-info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingMetSeq.Controllers.LoggingController",
+    "Method": "LogWarning",
+    "RelativePath": "api/Logging/log-warning",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoggingMetSeq.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LoggingMetSeq.WeatherForecast, LoggingMetSeq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
