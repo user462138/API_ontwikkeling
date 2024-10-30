@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFSamurai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007afa6df9c8d120e81c94c2add83e025d64691d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d44fd8d33868924d4ff38536f4eff783a3d409")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFSamurai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFSamurai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
